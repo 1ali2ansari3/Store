@@ -1,0 +1,22 @@
+.cate-image{
+        width: 70px;
+        height: 70px;
+ 
+}
+.table{
+    table-layout:  fixed;
+    width: 100%;
+   
+
+}
+.form-select{
+    padding: 0.4rem 0.4rem 0.4rem 1rem ;
+}
+.from-error{
+    margin: 0;
+    font-size: .8rem;
+    color: red;
+}
+
+
+
